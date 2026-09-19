@@ -1,4 +1,4 @@
-# Machine Learning Project for Heart data
+# Machine Learning Project for Life Expectancy data
 
 ---
 
