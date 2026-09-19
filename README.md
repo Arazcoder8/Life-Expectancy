@@ -79,7 +79,7 @@ Best Model is Random Forest
 ├── data/
 ├── images/
 ├── models/
-├── Heart.ipynb
+├── 5g.ipynb
 ├── README.md
 └── requirements.txt
 ```
@@ -91,7 +91,7 @@ Best Model is Random Forest
 Install requirements :
 ```text
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 ```
 then run ipynb file
